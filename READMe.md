@@ -8,3 +8,7 @@ While I'm certainly proud of what has come out of this, I wrote the code for thi
 ## Version 
 This was originally written with unity 4.  Most of the API from 4 was depricated after the upgrade to unity 2017. 
 It currently uses Unity 2017.4
+
+
+## Credit
+Credit goes to [Sebastian Lague](https://github.com/SebLague) as I followed along with his raycast tutorial on youtube. 
